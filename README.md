@@ -14,4 +14,4 @@
 ## 분류
 ---
 JavaScript
-- [실행 컨텍스트](https://github.com/Jeong-ki/TIL/JavaScript/javascript/execution_context.md)
+- [실행 컨텍스트](https://github.com/Jeong-ki/TIL/blob/main/JavaScript/execution_context.md)
